@@ -1,0 +1,7 @@
+In order to run:
+
+It is recommended to create a virtual environment for this project.
+
+Create a dir/ called img/ and dump in images of people you want to be able to recognize.
+Model the image encodings in lines 17-25, and add them to the known_face_encodings and known_face_names arrays.
+Run!
